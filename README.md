@@ -66,3 +66,7 @@ cd frontend && npm run lint && npm run build
 ## Security notes
 
 Environment files are intentionally excluded from Git. If an environment file was previously committed, rotate any credentials it contained before deployment.
+
+## License
+
+[MIT](LICENSE)
