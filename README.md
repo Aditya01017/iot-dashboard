@@ -1,4 +1,4 @@
-> **Current project repositories:** [Frontend](https://github.com/Aditya01017/iot-dashboard-frontend) · [Backend](https://github.com/Aditya01017/iot-dashboard-backend). This repository is an earlier consolidated dashboard snapshot; use the linked repositories for the maintained project source.
+> **Current project repositories:** [Frontend](https://github.com/Aditya01017/iot-dashboard-frontend) and [Backend](https://github.com/Aditya01017/iot-dashboard-backend) (both currently private). This repository is an earlier public dashboard snapshot; the maintained source is in the linked repositories.
 
 # IoT Asset Dashboard
 
