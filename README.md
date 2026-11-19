@@ -1,3 +1,5 @@
+> **Current project repositories:** [Frontend](https://github.com/Aditya01017/iot-dashboard-frontend) · [Backend](https://github.com/Aditya01017/iot-dashboard-backend). This repository is an earlier consolidated dashboard snapshot; use the linked repositories for the maintained project source.
+
 # IoT Asset Dashboard
 
 A full-stack asset-management dashboard for monitoring connected hardware. Authenticated users can register, search, filter, update, and remove assets through a responsive React interface backed by an Express and MongoDB API.
