@@ -2,6 +2,8 @@
 
 A full-stack asset-management dashboard for monitoring connected hardware. Authenticated users can register, search, filter, update, and remove assets through a responsive React interface backed by an Express and MongoDB API.
 
+Built by [Aditya Jain](https://github.com/Aditya01017).
+
 ## Highlights
 
 - JWT-protected asset API with user registration and sign-in
@@ -52,6 +54,10 @@ Prerequisites: Node.js 20+, npm, and a local or hosted MongoDB instance.
    ```
 
 The client runs on `http://localhost:5173` and talks to the API at `http://localhost:5000/api` by default.
+
+## Roadmap
+
+- Map view: the dashboard has a map tab, but plotting assets by latitude and longitude is not implemented yet. Location data is already stored on each asset.
 
 ## Useful commands
 

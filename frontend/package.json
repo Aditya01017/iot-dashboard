@@ -2,6 +2,9 @@
   "name": "iot-dashboard-frontend",
   "private": true,
   "version": "0.0.0",
+  "description": "React client for the IoT Asset Dashboard",
+  "author": "Aditya Jain",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
